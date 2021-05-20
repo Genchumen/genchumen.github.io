@@ -1,7 +1,6 @@
-# Genchumen
+# Welcome
 
-## Welcome
-
-## Members
-Wyatt Osterling
-Sawyer Shepherd
+# Members
+* [Wyatt Osterling](https://wizardwatch.net)
+* [Sawyer Shepherd](https://sawyershepherd.org)
+* Hanif Zaman
